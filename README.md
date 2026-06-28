@@ -152,6 +152,11 @@ Example Response
 ```
 
 ---
+## Live Link
+
+- Link : https://openembedd-production.up.railway.app/
+
+---
 
 ## Generate Embeddings
 
@@ -287,4 +292,5 @@ This project is licensed under the MIT License.
 **Vishnu Amarapu**
 
 - GitHub: https://github.com/Vishnu917vj
-- LinkedIn: www.linkedin.com/in/vishnu-amarapu
+- LinkedIn: [www.linkedin.com/in/vishnu-amarapu](https://www.linkedin.com/in/vishnu-amarapu-373a30212/)
+- Portfolio: https://portfolio-ashen-three-7qiqa4kgdc.vercel.app/
